@@ -10,12 +10,7 @@ e-mail(s): gbonanno1@binghamton.edu, shuang43@binghamton.edu
 
 PURPOSE:
 
-	This assignment will read in a file of students and 7 classes that they have
-	the choice of taking. The file will list each student's preference for courses
-	based on a 1 to 7 scale, with 1 being the highest preference and 7 being the
-	lowest. The program will then take these preferences into account and assign
-	each student classes based on the preferences, while trying to keep the average
-	preference as low as possible. Multi-threading is also implemented.
+	Builder Pattern.
 
 PERCENT COMPLETE:
 
